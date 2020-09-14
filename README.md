@@ -1,1 +1,11 @@
-# Coursera_capstone
+The main purpose of this capstone project is to develop and deploy a model that can predict the severity of car accidents given multiple attributes. These attributes include, but are certainly not limited to, weather/road conditions, the number of people involved in the collision, whether the driver(s) was under the influence, etc.  
+
+The stakeholders, or the group of people meaning to solve this problem, are government transport and safety officials who hope to reduce collisions by warning drivers of the likelihood/severity of an accident. This will hopefully cause drivers to drive more cautiously, or even change their travel plans. Although the results of this model are not meant to guarantee a lower amount of car collisions right away, it will help officials determine what safety measures need to be put in place to mitigate the number and severity of crashes. 
+
+At this point in development, the model will most likely use machine learning algorithms and various statistical/ data science techniques to accomplish the aforementioned The machine learning model will be supervised, and the techniques and methods used to analyze the data are subject to change. 
+
+
+The prolific data used in this predictive model contains numerous attributes and observations to analyze multiple scenarios where this model may be applied. 
+There are many variables, or circumstances, that affect the results of a collision. As mentioned previously, weather/road conditions, the number of people involved in the collision, and whether the driver(s) was under the influence are all possible factors in the severity of an accident. However, other less-obvious variables such as time, date, which lane the crash occurred, whether a car was parked or driving, etc. all play a critical role in the outcome of a car crash. 
+
+It is important to note that severity may be thought of as the severity of injuries, property damage, or both. There may also be missing, incomplete, or irrelevant data such that may need to be restructured. For example, the weather condition is only one attribute in the data set with multiple categories. However, a circumstance such as black ice or snow conditions is not very applicable to the likelihood of a crash in the summer. In this case, weather conditions would have to correlate with the date and time of the incident.
